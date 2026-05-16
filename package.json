@@ -1,0 +1,10 @@
+{
+  "name": "transty-handoff",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Convenience scripts for the TransY static prototype.",
+  "scripts": {
+    "dev": "npm --prefix project run dev",
+    "start": "npm --prefix project run start"
+  }
+}
